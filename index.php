@@ -22,8 +22,8 @@
 
         <!-- CSS  -->
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-        <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+        <link href="css/materialize.css?v=1" type="text/css" rel="stylesheet" media="screen,projection"/>
+        <link href="css/style.css?v=1" type="text/css" rel="stylesheet" media="screen,projection"/>
     </head>
     <body>
 
@@ -60,12 +60,12 @@
 
 
         <!--  Scripts-->
-        <script src="js/jquery-2.1.1.min.js"></script>
-        <script src="js/materialize.js"></script>
-        <script src="js/init.js"></script>
-        <script src="js/pila.js"></script>
-        <script src="js/game.js"></script>
-        <script src="js/mvsociales.js"></script>
+        <script src="js/jquery-2.1.1.min.js?v=1"></script>
+        <script src="js/materialize.js?v=1"></script>
+        <script src="js/init.js?v=1"></script>
+        <script src="js/pila.js?v=1"></script>
+        <script src="js/game.js?v=1"></script>
+        <script src="js/mvsociales.js?v=1"></script>
   
 
 
