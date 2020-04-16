@@ -1,0 +1,90 @@
+/* Custom Stylesheet */
+
+.icon-block {
+    padding: 0 15px;
+}
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+.word-foobar:before {
+    content: "Foobar";
+}
+
+#titulo{
+    font-family: Roboto!important;
+    text-align: center;
+    margin-top: -32px;
+    margin-bottom: 25px;
+    font-size: 19px;
+    font-family: fantasy;
+    color: gray;
+}
+
+#cuadricula{
+    text-align: center;
+}
+
+.col.grid-example {
+    border: 1px solid #eee;
+    margin: -10px 0;
+    text-align: center;
+    line-height: 50px;
+    font-size: 22px;
+    background-color: tomato;
+    color: white;
+    padding: 0;
+}
+
+.col.grid-example:hover {
+    cursor: -webkit-grab; cursor: grab;
+}
+
+
+.social{
+    display: none;
+    text-align: center;
+    height: 450px;
+}
+
+.share{
+    margin-top: 200px;
+}
+
+.share li{
+    display: inline-block;
+    width: 0 px;
+    margin: 0 5px;
+
+}
+
+.share li a{
+    display: block;
+    padding: 8px 0;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    -webkit-transition: all 0.2s ease;
+}
+
+.menu{
+    height: 50px;
+    margin-top: 30px;
+    margin-bottom: -60px;
+}
+
+#barraInfo{
+    text-align: center;
+}
+
+#reloj{
+    font-size: 28px;
+}
+
+#aciertos{
+    font-size: 28px;
+}
